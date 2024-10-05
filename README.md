@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amansady6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wUknIXAa30iknXQQAm7ci6Ghsp1g2Td8/view?usp=drive_link](https://drive.google.com/file/d/1wUknIXAa30iknXQQAm7ci6Ghsp1g2Td8/view?usp=drive_link)
+- 📄 Know about my experiences [Aman's CV](https://github.com/im-aman-22/im-aman-22/blob/main/Aman%20Alsadi%20Resume.pdf)
 # 💻 Tech Stack:
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## 🌐 Socials:
