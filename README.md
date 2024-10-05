@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 , I'm Aman</h1><br>
-<h3 align="center">A passionate Analyst girl⚡</h3>
+<h3 align="center">A passionate female analyst⚡</h3>
 <h3 align="center">Business Analyst, System Analyst, Data Analyst and Scrum Master⚡</h3>
 
 - 📫 How to reach me **amansady6@gmail.com**
